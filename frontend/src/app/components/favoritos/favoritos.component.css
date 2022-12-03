@@ -1,0 +1,24 @@
+#fav{
+    margin-top: 50px;
+    overflow-x: hidden;
+}
+
+img{
+    max-height: 350px;
+    max-width: 320px;
+}
+
+.favorito{
+    max-width: 332px;
+}
+
+.poster{
+    margin-left: 50px;
+}
+.deletar{
+    margin-left: 110px;
+}
+
+h4:hover{
+    cursor: pointer;
+}
